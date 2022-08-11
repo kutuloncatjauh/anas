@@ -1,0 +1,16 @@
+.navbar {
+    background-color: darkgoldenrod !important;
+    font-weight: bold;
+    color: beige;
+    text-transform: uppercase;
+}
+.carousel {
+    background-color: darkgoldenrod;
+}
+.carousel h1 {
+    color: blue;
+}
+.carousel p {
+    color: blue;
+    font-size: 400;
+}
